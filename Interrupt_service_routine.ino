@@ -1,3 +1,4 @@
+//If you like this project, consider starring on GitHub! ⭐
 
 // Define LED and switch connections
 const byte ledPin = 5;
